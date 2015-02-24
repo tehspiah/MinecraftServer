@@ -1,18 +1,19 @@
-[18:41:05] [Server thread/INFO]: Starting minecraft server version 1.8.3
-[18:41:05] [Server thread/INFO]: Loading properties
-[18:41:05] [Server thread/INFO]: Default game type: SURVIVAL
-[18:41:05] [Server thread/INFO]: Generating keypair
-[18:41:05] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:41:06] [Server thread/INFO]: Using default channel type
-[18:41:06] [Server thread/INFO]: Preparing level "world"
-[18:41:06] [Server thread/INFO]: Preparing start region for level 0
-[18:41:07] [Server thread/INFO]: Preparing spawn area: 63%
-[18:41:07] [Server thread/INFO]: Done (1.519s)! For help, type "help" or "?"
-[18:41:24] [Server thread/INFO]: Stopping the server
-[18:41:24] [Server thread/INFO]: Stopping server
-[18:41:24] [Server thread/INFO]: Saving players
-[18:41:24] [Server thread/INFO]: Saving worlds
-[18:41:24] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[18:41:24] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[18:41:24] [Server thread/INFO]: Saving chunks for level 'world'/The End
-[18:41:24] [Server Shutdown Thread/INFO]: Stopping server
+[18:49:46] [Server thread/INFO]: Starting minecraft server version 1.8.3
+[18:49:46] [Server thread/INFO]: Loading properties
+[18:49:46] [Server thread/INFO]: Default game type: SURVIVAL
+[18:49:46] [Server thread/INFO]: Generating keypair
+[18:49:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:49:46] [Server thread/INFO]: Using default channel type
+[18:49:47] [Server thread/INFO]: Preparing level "world"
+[18:49:47] [Server thread/INFO]: Preparing start region for level 0
+[18:49:48] [Server thread/INFO]: Preparing spawn area: 63%
+[18:49:48] [Server thread/INFO]: Done (1.518s)! For help, type "help" or "?"
+[18:49:50] [Server thread/INFO]: Stopping the server
+[18:49:50] [Server thread/INFO]: Stopping server
+[18:49:50] [Server thread/INFO]: Saving players
+[18:49:50] [Server thread/INFO]: Saving worlds
+[18:49:50] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[18:49:50] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[18:49:50] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[18:49:50] [Server Shutdown Thread/INFO]: Stopping server
+[18:49:50] [Server Shutdown Thread/INFO]: Saving players

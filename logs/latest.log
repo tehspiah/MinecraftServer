@@ -1,0 +1,39 @@
+[00:01:18] [Server thread/INFO]: Weaponologist2 fell from a high place
+[00:01:26] [Server thread/WARN]: Weaponologist2 moved wrongly!
+[00:01:30] [Server thread/WARN]: Weaponologist2 moved wrongly!
+[00:02:47] [Server thread/INFO]: Weaponologist2 drowned
+[00:02:56] [Server thread/WARN]: Weaponologist2 moved wrongly!
+[00:08:24] [User Authenticator #4/INFO]: UUID of player idolphinx3 is d24317dd-2142-457d-a42c-ffc45fdba856
+[00:08:24] [Server thread/INFO]: idolphinx3[/207.62.170.223:47586] logged in with entity id 95258 at (-132.69999998807907, 13.0, 101.6776058123859)
+[00:08:24] [Server thread/INFO]: idolphinx3 joined the game
+[00:09:38] [Server thread/WARN]: Samelazyboy moved wrongly!
+[00:40:19] [Server thread/WARN]: Samelazyboy moved wrongly!
+[00:48:50] [Server thread/INFO]: idolphinx3 has just earned the achievement [DIAMONDS!]
+[01:33:35] [Server thread/INFO]: idolphinx3 has just earned the achievement [Bake Bread]
+[01:47:26] [Server thread/WARN]: idolphinx3 moved wrongly!
+[01:51:38] [Server thread/INFO]: idolphinx3 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:51:38] [Server thread/INFO]: idolphinx3 left the game
+[02:28:30] [Server thread/INFO]: <Samelazyboy> what happem
+[02:28:40] [Server thread/INFO]: <Samelazyboy> What Happend to chat
+[02:28:44] [Server thread/INFO]: <Weaponologist2> ?
+[03:07:52] [Server thread/INFO]: Samelazyboy has just earned the achievement [We Need to Go Deeper]
+[03:07:53] [Server thread/INFO]: tehspiah has just earned the achievement [We Need to Go Deeper]
+[03:11:31] [Server thread/INFO]: Weaponologist2 burned to death
+[03:11:57] [Server thread/WARN]: Weaponologist2 moved wrongly!
+[03:12:47] [Server thread/INFO]: tehspiah has just earned the achievement [Into Fire]
+[03:14:47] [Server thread/WARN]: Weaponologist2 moved wrongly!
+[03:14:49] [Server thread/WARN]: Samelazyboy moved wrongly!
+[03:17:15] [Server thread/INFO]: tehspiah lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:17:15] [Server thread/INFO]: tehspiah left the game
+[03:17:28] [Server thread/INFO]: Samelazyboy lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:17:28] [Server thread/INFO]: Samelazyboy left the game
+[03:22:41] [Server thread/INFO]: Weaponologist2 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:22:41] [Server thread/INFO]: Weaponologist2 left the game
+[03:25:03] [Server thread/INFO]: Stopping the server
+[03:25:03] [Server thread/INFO]: Stopping server
+[03:25:03] [Server thread/INFO]: Saving players
+[03:25:03] [Server thread/INFO]: Saving worlds
+[03:25:03] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[03:25:03] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[03:25:03] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[03:25:03] [Server Shutdown Thread/INFO]: Stopping server
